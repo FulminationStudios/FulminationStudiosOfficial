@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.tabs {
+    font-family: 'Helvetica','Arial';
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+ul {
+     list-style-type: none;
+}
+.indTab {
+    padding: 10px;
+    /*border: 2px solid #000;*/
+    background-color: #c0c0c0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.link {
+    text-decoration: none;
+    color: #000000;
+}
