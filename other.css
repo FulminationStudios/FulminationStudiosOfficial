@@ -22,12 +22,12 @@ header {
 }
 .listitem {
   float:left;
-  margin-left:30px;
-  margin-right:30px;
+  padding-left:30px;
+  padding-right:30px;
 }
 .active {
   float:left;
   background-color:FFFFFF;
-  margin-left:30px;
-  margin-right:30px;
+  padding-left:30px;
+  padding-right:30px;
 }
