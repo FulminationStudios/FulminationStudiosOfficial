@@ -24,10 +24,12 @@ header {
   float:left;
   padding-left:30px;
   padding-right:30px;
+  padding-top:5px;
 }
 .active {
   float:left;
   background-color:FFFFFF;
   padding-left:30px;
   padding-right:30px;
+  padding-top:5px;
 }
