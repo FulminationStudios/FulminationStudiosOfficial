@@ -11,6 +11,9 @@ header {
 .navbar {
   float:left;
 }
-.navbarlist {
+.listitem {
+  float:left;
+}
+.active {
   float:left;
 }
