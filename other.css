@@ -7,3 +7,6 @@ header {
   margin-bottom:5px;
   margin-left:5px;
 }
+.navbar {
+  float:left;
+}
