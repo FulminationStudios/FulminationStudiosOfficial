@@ -28,6 +28,7 @@ header {
   padding-left:30px;
   padding-right:30px;
   padding-top:5px;
+  margin-bottom:10px;
 }
 .active {
   float:left;
@@ -35,4 +36,5 @@ header {
   padding-left:30px;
   padding-right:30px;
   padding-top:5px;
+  margin-bottom:10px;
 }
