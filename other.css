@@ -13,6 +13,9 @@ header {
 }
 .navbarlist {
   text-align:center;
+  font-family:Verdana;
+  font-style:italic;
+  font-style:bold;
 }
 .companyname {
   font-family:Verdana;
