@@ -24,6 +24,10 @@ background-color:white;
   float:left;
   margin:0;
 }
+.FulminTitle {
+  height:70%;
+  margin:0;
+}
 .navbar {
   text-align:center;
 }
