@@ -23,6 +23,7 @@ background-color:white;
 .navbar {
   float:left;
   text-align:center;
+  margin-bottom:5px;
 }
 .navitem {
   float:left;
