@@ -10,7 +10,7 @@ margin:0px;
 .main {
 width:800px;
 height:100%;
-margin-left:100px;
+margin-left:100px, auto;
 margin-right:auto;
 background-color:white;
 }
