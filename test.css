@@ -67,10 +67,10 @@ position:relative;
   float:right;
   width:200px;
   margin:0;
+  margin-left:-100px;
 }
 .SMLinks {
   margin:20px;
-  margin-left:-100px;
   list-style-type:none;
 }
 .icon {
