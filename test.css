@@ -67,6 +67,9 @@ position:relative;
   float:right;
   margin:0;
 }
+.SMLinks {
+  float:right;
+}
 .icon {
   width:20px;
   height:20px;
