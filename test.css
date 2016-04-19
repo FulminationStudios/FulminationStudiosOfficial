@@ -16,6 +16,10 @@ margin-right:auto;
 background-color:white;
 }
 .logo {
+  float:left;
   width:90px;
   margin:5px;
+}
+.navbar {
+  float:left;
 }
