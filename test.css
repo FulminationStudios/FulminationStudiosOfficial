@@ -9,6 +9,11 @@ width:100%;
 background-color:#FF0000;
 position:relative;
 }
+footer {
+  position:relative;
+  bottom:0;
+  background-color:000000;
+}
 .main {
 width:800px;
 height:100%;
