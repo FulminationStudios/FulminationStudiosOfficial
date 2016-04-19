@@ -29,7 +29,7 @@ background-color:white;
 .FulminTitle {
   margin-left:50px;
   font-style:italic;
-  font-style:underline;
+  text-decoration:underline;
 }
 .navbar {
   text-align:center;
