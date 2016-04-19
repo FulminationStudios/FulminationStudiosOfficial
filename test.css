@@ -23,7 +23,7 @@ background-color:white;
 }
 .navElements {
   float:left;
-  margin:0;
+  margin-left:-50px;
   font-family:Verdana;
 }
 .FulminTitle {
