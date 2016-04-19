@@ -10,7 +10,7 @@ background-color:#FF0000;
 position:relative;
 }
 footer {
-  position:relative;
+  position:absolute;
   width:100%;
   text-align:center;
   bottom:0;
