@@ -32,6 +32,8 @@ background-color:white;
 .navbar {
   text-align:center;
   margin:0;
+  postion:absolute;
+  bottom:0;
 }
 .navitem {
   float:left;
