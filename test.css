@@ -33,6 +33,7 @@ background-color:white;
 }
 .navitemActive {
   float:left;
+  float:bottom;
   width:100px;
   padding:5px;
   background-color:#FFFFFF;
