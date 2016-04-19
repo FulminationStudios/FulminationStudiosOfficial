@@ -30,7 +30,7 @@ background-color:white;
 .navitem {
   float:left;
   width:100px;
-  padding:5px;
+  height:30%;
   margin-left:10px;
   margin-right:10px;
   position:relative;
@@ -39,7 +39,7 @@ background-color:white;
 .navitemActive {
   float:left;
   width:100px;
-  padding:5px;
+  height:30%;
   background-color:#FFFF00;
   margin-left:10px;
   margin-right:10px;
