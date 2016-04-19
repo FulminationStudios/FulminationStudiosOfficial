@@ -5,14 +5,14 @@ text-align:center;
 margin:0px;
 }
 .margin {
-width:10rem;
-height:100rem;
+width:10%;
+height:100%;
 float:left;
 background-color:gray;
 }
 .main {
-width:40rem;
-height:100rem;
+width:40%;
+height:100%;
 float:left;
 background-color:white;
 }
