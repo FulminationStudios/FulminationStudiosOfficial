@@ -65,10 +65,10 @@ position:relative;
 }
 .SocMedLogos {
   float:right;
+  width:100px;
   margin:0;
 }
 .SMLinks {
-  width:10px;
 }
 .icon {
   width:20px;
