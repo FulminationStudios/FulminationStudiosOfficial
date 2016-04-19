@@ -68,10 +68,12 @@ position:relative;
   margin:0;
 }
 .SMLinks {
+  width:10px;
   float:right;
 }
 .icon {
   width:20px;
   height:20px;
+  margin:2px;
   float:right;
 }
