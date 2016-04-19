@@ -4,11 +4,13 @@ text-align:center;
 }
 .margin {
 width:10rem;
+height:100rem;
 float:left;
 background-color:gray;
 }
 .main {
 width:40rem;
+height:100rem;
 float:left;
 background-color:white;
 }
