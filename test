@@ -1,0 +1,8 @@
+<html>
+  <title>Test</title>
+  <body>
+  <div class="margin">Margin</div>
+  <div class="main">Main</div>
+  <div class="margin">Margin</div>
+  </body>
+</html>
