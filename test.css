@@ -34,14 +34,14 @@ background-color:white;
 .navitem {
   float:left;
   width:100px;
-  height:30%;
+  padding:5px;
   margin-left:10px;
   margin-right:10px;
 }
 .navitemActive {
   float:left;
   width:100px;
-  height:30%;
+  padding:5px;
   background-color:#FFFF00;
   margin-left:10px;
   margin-right:10px;
