@@ -30,7 +30,7 @@ background-color:white;
 }
 .navbar {
   text-align:center;
-  height:100%;
+  margin:0;
 }
 .navitem {
   float:left;
