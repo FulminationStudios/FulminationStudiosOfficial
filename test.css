@@ -4,8 +4,9 @@ background-color:#c0c0c0;
 text-align:center;
 margin:0px;
 }
-.margin {
-
+header {
+height:100px;
+width:100%;
 }
 .main {
 width:800px;
