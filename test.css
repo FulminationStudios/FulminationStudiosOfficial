@@ -69,7 +69,8 @@ position:relative;
   margin:0;
 }
 .SMLinks {
-  margin:20;
+  margin:20px;
+  margin-left:-40px;
   list-style-type:none;
 }
 .icon {
