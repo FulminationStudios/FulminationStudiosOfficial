@@ -32,8 +32,6 @@ background-color:white;
 .navbar {
   text-align:center;
   margin:0;
-  postion:absolute;
-  bottom:0;
 }
 .navitem {
   float:left;
@@ -41,8 +39,6 @@ background-color:white;
   padding:5px;
   margin-left:10px;
   margin-right:10px;
-  position:absolute;
-  bottom:0;
 }
 .navitemActive {
   float:left;
@@ -51,6 +47,4 @@ background-color:white;
   background-color:#FFFF00;
   margin-left:10px;
   margin-right:10px;
-  position:absolute;
-  bottom:0;
 }
