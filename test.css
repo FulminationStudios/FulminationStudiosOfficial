@@ -22,8 +22,10 @@ background-color:white;
 }
 .navElements {
   float:left;
-  text-align:center;
   margin:0;
+}
+.navbar {
+  text-align:center;
 }
 .navitem {
   float:left;
