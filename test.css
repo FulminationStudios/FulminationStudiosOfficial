@@ -40,8 +40,6 @@ background-color:white;
   padding:5px;
   margin-left:10px;
   margin-right:10px;
-  position:absolute;
-  bottom:0;
 }
 .navitemActive {
   float:left;
