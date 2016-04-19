@@ -27,6 +27,13 @@ background-color:white;
   float:left;
   width:100px;
   padding:5px;
+  margin-left:10px;
+  margin-right:10px;
+}
+.navitemActive {
+  float:left;
+  width:100px;
+  padding:5px;
   background-color:#FFFFFF;
   margin-left:10px;
   margin-right:10px;
