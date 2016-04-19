@@ -2,10 +2,12 @@ body {
 width:1000px;
 }
 .margin {
-width:100rem;
+width:10rem;
 float:left;
+background-color:gray;
 }
 .main {
-width:500rem;
+width:50rem;
 float:left;
+background-color:white;
 }
