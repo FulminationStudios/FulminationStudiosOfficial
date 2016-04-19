@@ -11,8 +11,13 @@ position:relative;
 }
 footer {
   position:absolute;
+  width:100%;
+  text-align:center;
   bottom:0;
   background-color:000000;
+}
+footer p {
+  color:FFFFFF;
 }
 .main {
 width:800px;
