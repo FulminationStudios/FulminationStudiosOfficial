@@ -151,6 +151,7 @@ position:relative;
   border-bottom: 2px solid #c0c0c0;
 }
 .uploadTag {
+  float:left;
   height:30%;
   font-family:Verdana;
   font-weight:normal;
