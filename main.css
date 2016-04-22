@@ -106,10 +106,12 @@ position:relative;
 .leftArrow {
   float:left;
   width:10px;
+  margin:0;
 }
 .rightArrow {
   float:left;
   width:10px;
+  margin:0;
 }
 .updates {
   float:left;
