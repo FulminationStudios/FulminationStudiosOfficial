@@ -8,6 +8,7 @@ height:100px;
 width:100%;
 background-color:#FF0000;
 position:relative;
+box-shadow: 0px 1px 5px #888888;
 }
 footer {
   position:absolute;
