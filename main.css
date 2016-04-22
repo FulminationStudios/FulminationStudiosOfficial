@@ -137,8 +137,8 @@ position:relative;
 .uploadDate {
   height:40%;
   font-family:Verdana;
-  font-weight:normal;
-  font-style:italic;
+  font-weight: thin;
+  font-style: italic;
   color:#c0c0c0;
   margin:0;
 }
