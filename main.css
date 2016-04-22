@@ -103,6 +103,8 @@ position:relative;
   border-radius:5px;
 }
 .updatesBox {
+  width:400px;
+  height:400px;
   float:left;
   margin-top:50px;
 }
