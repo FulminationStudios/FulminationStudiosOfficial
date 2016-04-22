@@ -150,3 +150,13 @@ position:relative;
   padding-bottom:-2%;
   border-bottom: 2px solid #c0c0c0;
 }
+.uploadTag {
+  height:30%;
+  font-family:Verdana;
+  font-weight:normal;
+  font-size:15px;
+  letter-spacing:2px;
+  color:#888888;
+  margin:0;
+  padding:2%;
+}
