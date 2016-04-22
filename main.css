@@ -109,6 +109,7 @@ position:relative;
   margin-top:50px;
 }
 .updatesTitle {
+  height:50px;
   text-align: right;
   font-family:Verdana;
   margin-right:65px;
