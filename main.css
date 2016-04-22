@@ -92,7 +92,6 @@ position:relative;
   margin-top:50px;
 }
 .projects {
-  float:left;
   width:350px;
   height:350px;
   background-image: url("FulminLogo.png");
@@ -108,7 +107,6 @@ position:relative;
   margin-top:50px;
 }
 .updates {
-  float:left;
   width:350px;
   height:350px;
   margin-right:45px;
