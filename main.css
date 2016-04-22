@@ -163,6 +163,7 @@ position:relative;
   float:right;
   font-family:Verdana;
   font-size:10px;
+  text-shadow: 0.5px 0.5px #FFFFFF;
   margin:0;
   margin-top:10px;
   margin-right:5px;
