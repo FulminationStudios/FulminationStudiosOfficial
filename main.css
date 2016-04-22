@@ -113,4 +113,5 @@ position:relative;
   margin-top:5px;
   margin-bottom:5px;
   background-color:gray;
+  box-shadow: 2px 2px 5px #888888;
 }
