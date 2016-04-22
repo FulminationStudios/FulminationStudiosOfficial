@@ -102,15 +102,16 @@ position:relative;
   box-shadow: 2px 2px 5px #888888;
   border-radius:5px;
 }
-.projectsTitle {
-  text-align:center;
-  font-family:Verdana;
-}
 .updatesBox {
   width:400px;
   height:400px;
   float:left;
   margin-top:50px;
+}
+.updatesTitle {
+  text-align:center;
+  font-family:Verdana;
+  margin-right:45px;
 }
 .updates {
   width:350px;
