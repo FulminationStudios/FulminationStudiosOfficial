@@ -111,6 +111,7 @@ position:relative;
 .updatesTitle {
   text-align: right;
   font-family:Verdana;
+  font-weight:normal;
   margin-right:65px;
 }
 .updates {
