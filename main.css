@@ -102,6 +102,12 @@ position:relative;
   box-shadow: 2px 2px 5px #888888;
   border-radius:5px;
 }
+.leftArrow {
+  width:10px;
+}
+.rightArrow {
+  width:10px;
+}
 .updates {
   float:left;
   width:350px;
