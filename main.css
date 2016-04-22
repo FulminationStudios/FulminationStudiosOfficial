@@ -98,9 +98,13 @@ position:relative;
   background-size: 100% 100%;
   margin-left:45px;
   margin-right:5px;
-  margin-top:50px;
+  margin-top:5px;
   box-shadow: 2px 2px 5px #888888;
   border-radius:5px;
+}
+.projects h1 {
+  text-align:center;
+  font-family:Verdana;
 }
 .updatesBox {
   width:400px;
