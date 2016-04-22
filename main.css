@@ -85,7 +85,12 @@ position:relative;
 .link {
   color:#000000;
 }
-.test {
+.projectsBox {
+  width:400px;
+  height:400px;
+  margin-top:50px;
+}
+.projects {
   float:left;
   width:350px;
   height:350px;
