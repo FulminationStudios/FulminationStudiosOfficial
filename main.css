@@ -159,3 +159,10 @@ position:relative;
   margin:0;
   padding:2%;
 }
+.keepReading {
+  float:right;
+  font-family:Verdana;
+  font-size:10px;
+  margin:0;
+  padding:2%;
+}
