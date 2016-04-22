@@ -95,6 +95,7 @@ position:relative;
   margin-right:5px;
   margin-top:100px;
   box-shadow: 2px 2px 5px #888888;
+  border-radius:5px;
 }
 .updates {
   float:left;
@@ -114,4 +115,5 @@ position:relative;
   margin:2%;
   background-color:FFFFFF;
   box-shadow: 2px 2px 5px #888888;
+  border-radius:5px;
 }
