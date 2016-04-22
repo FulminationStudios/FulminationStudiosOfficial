@@ -110,6 +110,7 @@ position:relative;
 }
 .updatesTitle {
   text-align: right;
+  letter-spacing:3px;
   font-family:Verdana;
   font-weight:normal;
   margin-right:65px;
