@@ -41,6 +41,7 @@ position:relative;
   margin-left:50px;
   font-style:italic;
   text-decoration:underline;
+  text-shadow: 1px 1px #FFFFFF;
 }
 .navbar {
   text-align:center;
