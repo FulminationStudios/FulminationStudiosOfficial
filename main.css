@@ -134,3 +134,10 @@ position:relative;
   box-shadow: 2px 2px 5px #888888;
   border-radius:5px;
 }
+.uploadDate {
+  height:40%;
+  font-family:Verdana;
+  font-weight:normal;
+  font-style:italic;
+  color:#c0c0c0;
+}
