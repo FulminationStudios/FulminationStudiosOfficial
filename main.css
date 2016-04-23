@@ -172,6 +172,6 @@ position:relative;
   border-radius:3px;
   display:none;
 }
-li:hover + .keepReading {
+.update:hover ~ .keepReading {
   display:block;
 }
