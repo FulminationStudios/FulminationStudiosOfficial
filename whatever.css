@@ -8,8 +8,10 @@ h1 {
 h2 {
   float:left;
   background-color: green;
+  border: 5px solid #000000;
 }
 h3 {
   float:right;
   background-color: purple;
+  padding:10px;
 }
