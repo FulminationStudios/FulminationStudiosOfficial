@@ -9,9 +9,11 @@ h2 {
   float:left;
   background-color: green;
   border: 5px solid #000000;
+  border-bottom: 50px solid lime;
 }
 h3 {
   float:right;
   background-color: purple;
   padding:10px;
+  margin-left:50%;
 }
