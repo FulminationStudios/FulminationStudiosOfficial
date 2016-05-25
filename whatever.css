@@ -2,3 +2,12 @@ html {
   text-align:center;
   color: red;
 }
+h1 {
+  background-color: blue;
+}
+h2 {
+  background-color: green;
+}
+h3 {
+  background-color: purple;
+}
