@@ -6,8 +6,10 @@ h1 {
   background-color: blue;
 }
 h2 {
+  float:left;
   background-color: green;
 }
 h3 {
+  float:right;
   background-color: purple;
 }
