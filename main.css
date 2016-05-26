@@ -4,6 +4,9 @@ html {
 }
 header, body, footer {
   width:1000px;
+  margin:0;
+  margin-left:auto;
+  margin-right:auto;
 }
 header {
   background-color:red;
