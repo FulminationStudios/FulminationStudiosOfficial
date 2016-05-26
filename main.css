@@ -25,6 +25,7 @@ header ul {
   height:35%;
   background-color:purple;
   margin:0;
+  text-align:center;
 }
 header li {
   float:left;
