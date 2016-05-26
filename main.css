@@ -25,6 +25,9 @@ header {
   height:80px;
   margin:10px;
 }
+.WebpageTitleBox {
+  background-color:yellow;
+}
 .HeaderRight {
   float:right;
   width:50%;
