@@ -17,11 +17,11 @@ header {
 header ul {
   list-style-type:none;
   width:96%;
-  height:20%;
   background-color:purple;
   margin:0;
 }
 header li {
+  height:20%;
   float:left;
 }
 body {
