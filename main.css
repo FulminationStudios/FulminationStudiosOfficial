@@ -29,6 +29,7 @@ header ul {
   height:50px;
   background-color:purple;
   margin:0;
+  margin-left:-40px;
   text-align:center;
 }
 header li {
