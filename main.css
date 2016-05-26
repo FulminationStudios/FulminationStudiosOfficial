@@ -32,7 +32,7 @@ header ul {
   text-align:center;
 }
 header li {
-  float:left;
+  float:right;
   background-color:silver;
   width:19%;
   margin-right:1%;
