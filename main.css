@@ -19,6 +19,9 @@ header div {
   height:65%;
   background-color:lime;
 }
+.logo {
+  height:95%;
+}
 header ul {
   list-style-type:none;
   width:96%;
