@@ -14,10 +14,10 @@ header {
   height:10%;
   width:100%;
 }
-.header ul {
+header ul {
   list-style-type:none;
 }
-.header li {
+header li {
   float:left;
 }
 body {
