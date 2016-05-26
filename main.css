@@ -9,8 +9,6 @@ header, body, footer {
   margin-right:auto;
 }
 header {
-  position:absolute;
-  top:0;
   background-color:red;
   height:100px;
 }
@@ -19,8 +17,6 @@ body {
   height:200px;
 }
 footer {
-  position:absolute;
-  bottom:0;
   background-color:green;
   height:100px;
 }
