@@ -29,6 +29,7 @@ header {
 }
 header ul {
   list-style-type:none;
+  float:right;
   width:50%;
   height:50px;
   margin:0;
