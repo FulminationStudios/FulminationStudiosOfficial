@@ -16,7 +16,7 @@ header {
 }
 .HeaderLeft {
   float:left;
-  width:50%;
+  width:40%;
   height:100%;
   background-color:lime;
 }
@@ -52,7 +52,7 @@ header {
 }
 .HeaderRight {
   float:right;
-  width:50%;
+  width:60%;
   height:100%;
   background-color:yellow;
 }
