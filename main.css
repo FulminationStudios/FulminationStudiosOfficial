@@ -55,7 +55,8 @@ header li {
   margin-left:1%;
   margin-right:1%;
   font-size:16px;
-  padding-top:2px;
+  padding-top:1px;
+  padding-bottom:1px;
 }
 body {
   background-color:white;
