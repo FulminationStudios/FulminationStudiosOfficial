@@ -1,5 +1,4 @@
 html {
-  text-align:center;
   background-color:gray;
   margin:0;
 }
@@ -14,6 +13,12 @@ header {
   background-color:red;
   height:10%;
   width:100%;
+}
+.header ul {
+  list-style-type:none;
+}
+.header li {
+  float:left;
 }
 body {
   background-color:white;
