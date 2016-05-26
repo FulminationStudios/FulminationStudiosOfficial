@@ -62,9 +62,10 @@ header {
   background-color:orange;
 }
 .SocMedLogos {
+  margin:10px;
   float:right;
-  height:20px;
-  width:60px;
+  height:40px;
+  width:100px;
   background-color:red;
 }
 .HeaderRightBottom {
