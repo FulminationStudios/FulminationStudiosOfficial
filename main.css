@@ -9,6 +9,8 @@ header, body, footer {
   margin-right:auto;
 }
 header {
+  position:absolute;
+  top:0;
   background-color:red;
   height:100px;
 }
