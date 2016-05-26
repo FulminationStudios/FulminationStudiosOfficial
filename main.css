@@ -36,7 +36,7 @@ header ul {
   text-align:center;
 }
 header li {
-  float:right;
+  float:left;
   background-color:silver;
   width:20%;
   margin:0px;
