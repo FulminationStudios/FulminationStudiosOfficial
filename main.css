@@ -27,12 +27,12 @@ header {
   background-color:yellow;
 }
 .HeaderRightTop {
-  height:50%;
+  height:80%;
   width:100%;
   background-color:orange;
 }
 .HeaderRightBottom {
-  height:50%;
+  height:20%;
   width:100%;
   background-color:black;
 }
