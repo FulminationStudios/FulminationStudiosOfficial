@@ -37,10 +37,10 @@ header {
 .WebpageTitle strong {
   font-size:30px;
 }
-.WebpageTitle 1 {
+.WebpageTitle h1 {
   font-size:35px;
 }
-.WebpageTitle 2 {
+.WebpageTitle h2 {
   font-size:25px;
 }
 .HeaderRight {
