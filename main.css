@@ -14,10 +14,14 @@ header {
   height:150px;
   width:100%;
 }
-header div {
+.HeaderTop {
   width:100%;
   height:100px;
   background-color:lime;
+}
+.HeaderBottom {
+  width:100px;
+  background-color:yellow;
 }
 .logo {
   height:80px;
@@ -27,7 +31,6 @@ header ul {
   list-style-type:none;
   width:96%;
   height:50px;
-  background-color:purple;
   margin:0;
   margin-left:-40px;
   text-align:center;
