@@ -30,8 +30,10 @@ header li {
   float:left;
   background-color:silver;
   width:20%;
-  height:100%;
   margin-right:5%;
+  font-size:30%;
+  padding-top:35%;
+  padding-bottom:35%;
 }
 body {
   background-color:white;
