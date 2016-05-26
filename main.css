@@ -2,3 +2,15 @@ html {
   background-color:gray;
   margin:0;
 }
+header, body, footer {
+  width:1000px;
+}
+header {
+  background-color:red;
+}
+body {
+  background-color:white;
+}
+footer {
+  background-color:black;
+}
