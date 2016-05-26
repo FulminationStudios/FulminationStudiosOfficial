@@ -28,6 +28,10 @@ header ul {
 }
 header li {
   float:left;
+  background-color:silver;
+  width:20%;
+  height:100%;
+  margin-right:5%;
 }
 body {
   background-color:white;
