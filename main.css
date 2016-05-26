@@ -20,11 +20,10 @@ header ul {
   height:20%;
   background-color:purple;
   margin:0;
-  margin-right:50px;
 }
 header li {
   float:left;
-  margin:0;
+  margin-left:-30px;
 }
 body {
   background-color:white;
