@@ -17,6 +17,8 @@ body {
   height:800px;
 }
 footer {
+  position:absolute;
+  bottom:0;
   background-color:green;
   height:100px;
 }
