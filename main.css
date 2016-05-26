@@ -47,6 +47,7 @@ header {
 }
 .WebpageTitleBox h2 strong {
   font-size:25px;
+  font-weight:normal;
 }
 .HeaderRight {
   float:right;
