@@ -35,9 +35,18 @@ header {
 }
 .WebpageTitleBox h1 {
   margin:0px;
+  font-size:30px;
+}
+.WebpageTitleBox h1 strong {
+  font-size:35px;
 }
 .WebpageTitleBox h2 {
   margin:0px;
+  font-weight:normal;
+  font-size:20px;
+}
+.WebpageTitleBox h2 strong {
+  font-size:25px;
 }
 .HeaderRight {
   float:right;
