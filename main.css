@@ -26,6 +26,7 @@ header {
   margin:10px;
 }
 .WebpageTitleBox {
+  float:left;
   background-color:yellow;
 }
 .HeaderRight {
