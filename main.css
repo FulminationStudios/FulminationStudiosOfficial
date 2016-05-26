@@ -27,6 +27,9 @@ header {
 }
 .WebpageTitle {
   float:left;
+  font-style:oblique;
+  font-family:Verdana;
+  font-weight:normal;
 }
 .HeaderRight {
   float:right;
