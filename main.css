@@ -34,6 +34,9 @@ header {
   font-family:Verdana;
   font-weight:normal;
 }
+.WebpageTitle strong {
+  font-size:30px;
+}
 .HeaderRight {
   float:right;
   width:50%;
