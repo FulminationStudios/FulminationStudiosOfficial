@@ -146,6 +146,9 @@ header {
   border: 1px solid #999999;
   box-shadow: 2px 2px 5px #999999;
 }
+.Update:hover {
+  background-color: #b3daff;
+}
 .UpdateTop {
   width:100%;
   border-bottom: 2px solid #999999;
