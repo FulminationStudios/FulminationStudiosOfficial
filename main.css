@@ -164,7 +164,12 @@ header {
   background-color:green;
 }
 .UpdateBottom h3 {
+  font-size:20px;
+  font-weight:normal;
+  padding-top:3px;
+  padding-bottom:3px;
   margin:0;
+  margin-left:5px;
 }
 .RightSide {
   float:left;
