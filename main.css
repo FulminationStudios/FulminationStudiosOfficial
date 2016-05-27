@@ -194,6 +194,7 @@ header {
   box-shadow: 2px 2px 5px #999999;
 }
 .Contents img {
+  margin:0;
   width:670px;
 }
 footer {
