@@ -89,7 +89,7 @@ header {
   margin-left:-40px;
   text-align:center;
 }
-.HeaderRightBottom li {
+.Tab, .ActiveTab {
   font-family:Verdana;
   float:left;
   width:18%;
@@ -98,7 +98,9 @@ header {
   font-size:16px;
   padding-top:1px;
   padding-bottom:0px;
-  border-bottom: 2px solid red;
+}
+.ActiveTab {
+  border-bottom:2px solid red;
 }
 body {
   background-color:white;
