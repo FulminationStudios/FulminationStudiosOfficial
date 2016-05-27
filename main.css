@@ -145,6 +145,16 @@ header {
   background-color:lime;
   border-radius:10px;
 }
+.UpdateTop {
+  width:100%;
+  height:50%;
+  background-color:red;
+}
+.UpdateBottom {
+  width:100%;
+  height:50%;
+  background-color:green;
+}
 .RightSide {
   float:left;
   background-color:green;
