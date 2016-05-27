@@ -180,6 +180,9 @@ header {
   width:70%;
   height:100%;
 }
+.Contents {
+  background-color: orange;
+}
 footer {
   height:97px;
   width:100%;
