@@ -118,6 +118,11 @@ header {
   margin-top:20%;
   background-color:blue;
 }
+.UpdatesBoxTitle {
+  width:100%;
+  height:20%;
+  background-color:white;
+}
 .RightSide {
   float:left;
   background-color:green;
