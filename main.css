@@ -182,6 +182,8 @@ header {
 }
 .Contents {
   background-color: orange;
+  margin:5%;
+  margin-top:20%;
 }
 footer {
   height:97px;
