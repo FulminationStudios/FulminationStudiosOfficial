@@ -151,11 +151,11 @@ header {
 }
 .UpdateTop h3 {
   color: #999999;
-  font-size:18px;
+  font-size:16px;
   font-style:oblique;
   font-weight:normal;
-  padding-top:3px;
-  padding-bottom:3px;
+  padding-top:5px;
+  padding-bottom:5px;
   margin:0;
   margin-left:5px;
 }
