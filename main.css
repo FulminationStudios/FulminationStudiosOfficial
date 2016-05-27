@@ -124,6 +124,8 @@ header {
   background-color:white;
   text-align:center;
   font-family:Verdana;
+  font-weight:normal;
+  letter-spacing:2px;
 }
 .RightSide {
   float:left;
