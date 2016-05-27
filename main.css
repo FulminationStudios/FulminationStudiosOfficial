@@ -100,7 +100,7 @@ header {
   padding-bottom:0px;
 }
 .Tab:hover {
-  border-bottom: 3px solid #4d4d4d;
+  border-bottom: 3px solid #999999;
 }
 .ActiveTab {
   border-bottom:3px solid red;
