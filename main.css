@@ -197,6 +197,7 @@ header {
   width:670px;
   height:150px;
   box-shadow: 2px 2px 5px #999999;
+  border-radius:10px;
 }
 footer {
   height:97px;
