@@ -69,6 +69,8 @@ header {
   background-color:red;
 }
 .SocMedLogos ul {
+  margin:0;
+  margin-right:-40px;
   width:100%;
   list-style-type:none;
 }
