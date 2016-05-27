@@ -70,7 +70,7 @@ header {
 }
 .SocMedLogos ul {
   margin:0;
-  margin-right:-40px;
+  margin-left:-40px;
   width:100%;
   list-style-type:none;
 }
