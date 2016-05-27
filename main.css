@@ -11,7 +11,7 @@ body{
 }
 header {
   background-color:white;
-  border-bottom: 5px solid red;
+  border-bottom: 3px solid black;
   height:100px;
   width:100%;
 }
@@ -100,7 +100,7 @@ header {
   padding-bottom:0px;
 }
 .ActiveTab {
-  border-bottom:5px solid black;
+  border-bottom:3px solid red;
 }
 body {
   background-color:white;
