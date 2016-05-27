@@ -185,6 +185,11 @@ header {
   margin:15px;
   margin-top:80px;
 }
+.Contents ul {
+  list-style-type:none;
+  margin:0;
+  margin-left:-40px;
+}
 footer {
   height:97px;
   width:100%;
