@@ -200,11 +200,11 @@ header {
   height:150px;
   box-shadow: 2px 2px 5px #999999;
 }
-footer {
+.Footer {
   color: #FFFFFF;
   text-align:center;
   height:97px;
   width:100%;
 }
-footer p {
+.Footer p {
 }
