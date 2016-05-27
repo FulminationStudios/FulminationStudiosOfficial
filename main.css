@@ -8,6 +8,7 @@ body{
   margin:0;
   margin-left:auto;
   margin-right:auto;
+  background: liner-gradient (white, black);
 }
 header {
   border-bottom: 3px solid black;
@@ -101,14 +102,9 @@ header {
 .ActiveTab {
   border-bottom:3px solid red;
 }
-body {
-  background: liner-gradient (white, black);
-  height:1000px;
-}
 .main {
   width:100%;
   height:800px;
-  background-color:white;
 }
 footer {
   background-color:green;
