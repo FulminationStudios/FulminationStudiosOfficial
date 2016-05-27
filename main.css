@@ -90,6 +90,7 @@ header {
   text-align:center;
 }
 .HeaderRightBottom li {
+  font-family:Verdana;
   float:left;
   width:18%;
   margin-left:1%;
