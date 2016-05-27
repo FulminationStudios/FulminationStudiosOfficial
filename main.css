@@ -76,6 +76,7 @@ header {
   padding-right:5px;
   width:25px;
   height:25px;
+  box-shadow: 2px 2px 5px #999999;
 }
 .HeaderRightBottom {
   height:20%;
