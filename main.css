@@ -108,9 +108,11 @@ header {
 }
 .RightSide {
   background-color:green;
+  width:50%;
 }
 .LeftSide {
   background-color:yellow;
+  width:50%;
 }
 footer {
   height:97px;
