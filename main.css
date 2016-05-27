@@ -106,12 +106,14 @@ header {
   width:100%;
   height:800px;
 }
-.RightSide {
-  background-color:green;
+.LeftSide {
+  float:left;
+  background-color:yellow;
   width:50%;
 }
-.LeftSide {
-  background-color:yellow;
+.RightSide {
+  float:left;
+  background-color:green;
   width:50%;
 }
 footer {
