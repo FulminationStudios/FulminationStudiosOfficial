@@ -117,8 +117,8 @@ header {
 .UpdatesBox {
   width:90%;
   height:50%;
-  margin:5%;
-  margin-top:20%;
+  margin:15px;
+  margin-top:160px;
 }
 .UpdatesBoxTitle {
   width:100%;
@@ -182,8 +182,8 @@ header {
 }
 .Contents {
   background-color: orange;
-  margin:5%;
-  margin-top:20%;
+  margin:15px;
+  margin-top:160px;
 }
 footer {
   height:97px;
