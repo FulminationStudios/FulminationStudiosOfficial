@@ -190,6 +190,11 @@ header {
   margin:0;
   margin-left:-40px;
 }
+.Contents li {
+  width:100%;
+  height:100px;
+  background-color:yellow;
+}
 footer {
   height:97px;
   width:100%;
