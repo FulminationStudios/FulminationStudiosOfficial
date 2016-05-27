@@ -110,11 +110,13 @@ header {
   float:left;
   background-color:yellow;
   width:50%;
+  height:100%;
 }
 .RightSide {
   float:left;
   background-color:green;
   width:50%;
+  height:100%;
 }
 footer {
   height:97px;
