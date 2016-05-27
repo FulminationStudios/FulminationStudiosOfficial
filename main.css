@@ -143,7 +143,6 @@ header {
   margin-top:10px;
   margin-bottom:10px;
   background-color: white;
-  border-radius:5px;
   border: 1px solid #999999;
   box-shadow: 2px 2px 5px #999999;
 }
@@ -197,7 +196,6 @@ header {
   width:670px;
   height:150px;
   box-shadow: 2px 2px 5px #999999;
-  border-radius:10px;
 }
 footer {
   color: #FFFFFF;
