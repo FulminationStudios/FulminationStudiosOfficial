@@ -109,13 +109,13 @@ header {
 .LeftSide {
   float:left;
   background-color:yellow;
-  width:50%;
+  width:30%;
   height:100%;
 }
 .RightSide {
   float:left;
   background-color:green;
-  width:50%;
+  width:70%;
   height:100%;
 }
 footer {
