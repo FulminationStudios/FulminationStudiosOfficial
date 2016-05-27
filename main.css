@@ -99,6 +99,9 @@ header {
   padding-top:1px;
   padding-bottom:0px;
 }
+.Tab:hover {
+  color:#999999;
+}
 .ActiveTab {
   border-bottom:3px solid red;
 }
