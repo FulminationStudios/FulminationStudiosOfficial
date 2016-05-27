@@ -147,10 +147,10 @@ header {
 }
 .UpdateTop {
   width:100%;
-  border-bottom: 2px solid #cccccc;
+  border-bottom: 2px solid #999999;
 }
 .UpdateTop h3 {
-  color: #cccccc;
+  color: #999999;
   font-size:18px;
   font-style:oblique;
   font-weight:normal;
