@@ -203,8 +203,8 @@ header {
 .Footer {
   color: #FFFFFF;
   text-align:center;
-  height:97px;
   width:100%;
 }
 .Footer p {
+  margin-top:50px;
 }
