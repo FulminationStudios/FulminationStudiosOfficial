@@ -124,6 +124,7 @@ header {
   background-color:white;
   text-align:center;
   font-family:Verdana;
+  border-radius: 25px;
 }
 .UpdatesBoxTitle h3 {
   font-weight:normal;
