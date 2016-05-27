@@ -8,7 +8,7 @@ body{
   margin:0;
   margin-left:auto;
   margin-right:auto;
-  background: liner-gradient (white, black);
+  background: linear-gradient (white, black);
 }
 header {
   border-bottom: 3px solid black;
