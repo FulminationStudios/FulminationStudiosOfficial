@@ -109,12 +109,13 @@ header {
 .LeftSide {
   float:left;
   background-color:yellow;
-  width:30%;
+  width:40%;
   height:100%;
 }
 .UpdatesBox {
-  width:100%;
+  width:90%;
   height:50%;
+  margin:5%;
   margin-top:20%;
   background-color:blue;
 }
@@ -132,7 +133,7 @@ header {
 .RightSide {
   float:left;
   background-color:green;
-  width:70%;
+  width:60%;
   height:100%;
 }
 footer {
