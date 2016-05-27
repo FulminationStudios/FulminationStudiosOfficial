@@ -76,6 +76,8 @@ header {
   float:left;
 }
 .SocMedLogos img {
+  padding-left:5px;
+  padding-right:5px;
   width:25px;
   height:25px;
 }
