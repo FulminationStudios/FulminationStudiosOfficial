@@ -108,7 +108,6 @@ header {
 }
 .LeftSide {
   float:left;
-  background-color:yellow;
   width:30%;
   height:100%;
 }
@@ -117,11 +116,9 @@ header {
   height:50%;
   margin:5%;
   margin-top:20%;
-  background-color:blue;
 }
 .UpdatesBoxTitle {
   width:100%;
-  background-color:white;
   text-align:center;
   font-family:Verdana;
 }
