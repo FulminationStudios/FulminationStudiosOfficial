@@ -133,6 +133,7 @@ header {
 }
 .UpdatesBox ul {
   list-style-type:none;
+  margin-left:-40px;
 }
 .UpdatesBox li div {
   width:100%;
