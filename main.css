@@ -151,7 +151,8 @@ header {
 }
 .UpdateTop h3 {
   font-size:20px;
-  padding-top:5px;
+  font-style:oblique;
+  padding-top:3px;
   padding-bottom:3px;
   margin:0;
   margin-left:5px;
