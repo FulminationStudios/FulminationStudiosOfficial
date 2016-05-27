@@ -200,6 +200,8 @@ header {
   border-radius:10px;
 }
 footer {
+  color: #FFFFFF;
+  text-align:center;
   height:97px;
   width:100%;
 }
