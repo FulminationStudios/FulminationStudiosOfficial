@@ -131,6 +131,15 @@ header {
   padding-top:10px;
   padding-bottom:10px;
 }
+.UpdatesBox ul {
+  list-style-type:none;
+}
+.UpdatesBox li div {
+  width:100%;
+  height:50px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
 .RightSide {
   float:left;
   background-color:green;
