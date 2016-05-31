@@ -1,7 +1,8 @@
 var main = function() {
   
-  $('.ActiveTab').click(function () {
-    $(this).siblings().addClass('ActiveTab');
+  $('.Tab').click(function () {
+    $(this).addClass('ActiveTab');
+    $(this).siblings().removeClass('ActiveTab').addClass('Tab');
   });
 };
 $(document).ready(main);
