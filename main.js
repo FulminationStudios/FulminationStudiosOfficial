@@ -4,7 +4,7 @@ var main = function() {
   activeTab.removeClass('Tab');
   $('.Tab').click(function () {
     activeTab = $(this);
-    $('.Tab').removeClass('ActiveTab');
+    //$('.Tab').removeClass('ActiveTab');
   });
 };
 $(document).ready(main);
