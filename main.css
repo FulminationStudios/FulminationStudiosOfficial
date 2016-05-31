@@ -102,11 +102,8 @@ header {
 .Tab:hover {
   border-bottom: 3px solid #999999;
 }
-.ActiveTab {
+.ActiveTab, .ActiveTab:hover {
   border-bottom:3px solid red;
-}
-.ActiveTab:hover {
-  border-bottom:3px solid black;
 }
 .main {
   width:100%;
