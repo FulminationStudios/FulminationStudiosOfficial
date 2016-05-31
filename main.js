@@ -1,5 +1,6 @@
 var main = function() {
   hidePages();
+  $('.HomePage').show();
   $('.Tab').first().addClass('ActiveTab');
   $('.Tab').click(function () {
     $(this).addClass('ActiveTab');
