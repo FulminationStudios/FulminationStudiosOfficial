@@ -3,7 +3,6 @@ var main = function() {
   activeTab.addClass('ActiveTab');
   $('.Tab').click(function () {
     $(this).addClass('ActiveTab');
-    $(this).removeClass('Tab');
   });
 };
 $(document).ready(main);
