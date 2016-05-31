@@ -1,5 +1,5 @@
 var main = function() {
-  var activeTab = $('.Tab').first();
+  var activeTab;
   activeTab.addClass('ActiveTab').removeClass('Tab');
   var otherTab = $('.Tab');
   otherTab.addClass('Tab').removeClass('ActiveTab');
