@@ -4,7 +4,6 @@ var main = function() {
   $('.Tab').click(function () {
     $(this).addClass('ActiveTab');
     $(this).siblings().removeClass('ActiveTab')
-    if ($(this).hasClass('HomePage'))
   });
 };
 var hidePages = function() {
