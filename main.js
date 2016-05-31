@@ -1,7 +1,6 @@
 var main = function() {
   var activeTab = $('.Tab').first();
-  activeTab.addClass('ActiveTab');
-  activeTab.removeClass('Tab');
+  activeTab.setClass('ActiveTab');
   $('.Tab').click(function () {
     activeTab = $(this);
   });
