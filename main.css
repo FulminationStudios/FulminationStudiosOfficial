@@ -212,3 +212,15 @@ header {
 .Footer p {
   margin-top:50px;
 }
+.NewsLeftSide {
+ background-color:blue;
+ float:left;
+ width:70%;
+ height:100%;
+}
+.NewsRightSide {
+  background-color:red;
+  float:left;
+  width:30%;
+ height:100%;
+}
