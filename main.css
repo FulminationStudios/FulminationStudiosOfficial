@@ -256,6 +256,9 @@ header {
 }
 .PostCreator p {
   padding:0;
+  font-size:12px;
+  margin:0;
+  margin-left:5px;
 }
 .Post h3 {
   color: #999999;
@@ -278,7 +281,7 @@ header {
 .PostBottom {
   width:100%;
 }
-.Post p {
+.PostBottom p {
   color: #4d4d4d;
   font-size:15px;
   font-weight:normal;
