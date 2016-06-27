@@ -248,9 +248,6 @@ header {
   width:100%;
   border-bottom: 2px solid #999999;
 }
-.PostTop:hover .PostBottom {
-  display:block;
-}
 .PostTop h3 {
   color: #999999;
   font-size:18px;
@@ -264,7 +261,6 @@ header {
 }
 .PostBottom {
   width:100%;
-  display:none;
 }
 .PostBottom p {
   color: #4d4d4d;
