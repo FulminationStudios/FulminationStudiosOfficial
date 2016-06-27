@@ -259,6 +259,12 @@ header {
   margin-left:5px;
   letter-spacing:2px;
 }
+.PostTitle {
+  float:left;
+}
+.UploadDate {
+  float:right;
+}
 .PostBottom {
   width:100%;
 }
@@ -271,4 +277,11 @@ header {
   margin:0;
   margin-left:5px;
   margin-right:5px;
+}
+.PostBottom img {
+  margin:0;
+  margin-left:5px;
+  margin-right:5px;
+  padding-top:10px;
+  padding-bottom:10px;
 }
