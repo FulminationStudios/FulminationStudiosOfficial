@@ -270,7 +270,7 @@ header {
 .PostBottom {
   width:100%;
 }
-.PostBottom p {
+.Post p {
   color: #4d4d4d;
   font-size:15px;
   font-weight:normal;
@@ -280,7 +280,7 @@ header {
   margin-left:5px;
   margin-right:5px;
 }
-.PostBottom img {
+.Post img {
   margin:0;
   margin-left:5px;
   margin-right:5px;
