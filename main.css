@@ -237,12 +237,14 @@ header {
 }
 .PostTop {
   background-color:gray;
+  width:100%;
 }
 .PostTop h3 {
   margin:0;
 }
 .PostBottom {
   background-color:green;
+  width:100%;
 }
 .PostBottom p {
   margin:0;
