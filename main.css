@@ -234,6 +234,12 @@ header {
 .PostTop {
   background-color:gray;
 }
+.PostTop h3 {
+  margin:0;
+}
 .PostBottom {
   background-color:green;
+}
+.PostBottom p {
+  margin:0;
 }
