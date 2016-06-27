@@ -4,7 +4,7 @@ html {
 }
 body{
   width:1000px;
-  /*height:1000px;*/
+  height:1000px;
   margin:0;
   margin-left:auto;
   margin-right:auto;
@@ -110,12 +110,12 @@ header {
 }
 .main {
   width:100%;
-  /*height:800px;*/
+  height:800px;
 }
 .LeftSide {
   float:left;
   width:30%;
-  /*height:100%;*/
+  height:100%;
 }
 .UpdatesBox {
   width:90%;
@@ -182,7 +182,7 @@ header {
 .RightSide {
   float:left;
   width:70%;
-  /*height:100%;*/
+  height:100%;
 }
 .Contents {
   margin-left:10px;
@@ -216,12 +216,12 @@ header {
 .NewsLeftSide {
  float:left;
  width:70%;
- /*height:100%;*/
+ height:100%;
 }
 .NewsRightSide {
   float:left;
   width:30%;
- /*height:100%;*/
+ height:100%;
 }
 .PostList {
  list-style-type: none;
