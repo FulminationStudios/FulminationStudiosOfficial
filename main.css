@@ -226,6 +226,14 @@ header {
 }
 .PostList {
  list-style-type: none;
- background-color:yellow;
  width:100%;
+}
+.Post {
+  background-color:white;
+}
+.PostTop {
+  background-color:gray;
+}
+.PostBottom {
+  background-color:green;
 }
