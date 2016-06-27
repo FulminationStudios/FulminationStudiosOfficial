@@ -259,8 +259,8 @@ header {
   margin-left:5px;
   letter-spacing:2px;
 }
-.UploadDate {
-  float:right;
+.PostInfo {
+  background-color:yellow;
 }
 .PostBottom {
   width:100%;
