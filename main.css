@@ -211,6 +211,7 @@ header {
 }
 .Footer p {
   margin-top:50px;
+  margin-bottom:-20px;
   padding-bottom:20px;
 }
 .NewsMain {
