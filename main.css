@@ -213,13 +213,11 @@ header {
   margin-top:50px;
 }
 .NewsLeftSide {
- background-color:blue;
  float:left;
  width:70%;
  height:100%;
 }
 .NewsRightSide {
-  background-color:red;
   float:left;
   width:30%;
  height:100%;
@@ -234,16 +232,19 @@ header {
 .Post {
   background-color:white;
   width:660px;
+  font-family:Verdana;
+  margin-bottom:15px;
+  background-color: white;
+  border: 1px solid #999999;
+  box-shadow: 2px 2px 5px #999999;
 }
 .PostTop {
-  background-color:gray;
   width:100%;
 }
 .PostTop h3 {
   margin:0;
 }
 .PostBottom {
-  background-color:green;
   width:100%;
 }
 .PostBottom p {
