@@ -254,6 +254,9 @@ header {
   height:20px;
   border-bottom: 2px solid #999999;
 }
+.PostCreator p {
+  padding:0;
+}
 .Post h3 {
   color: #999999;
   font-size:18px;
