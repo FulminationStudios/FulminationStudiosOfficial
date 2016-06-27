@@ -257,10 +257,13 @@ header {
   padding-bottom:5px;
   margin:0;
   margin-left:5px;
+  margin-right:5px;
   letter-spacing:2px;
 }
 .PostInfo {
   background-color:yellow;
+  width:100%;
+  height:auto;
 }
 .PostTitle {
   float:left;
