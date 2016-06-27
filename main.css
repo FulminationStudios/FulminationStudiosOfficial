@@ -255,6 +255,7 @@ header {
 }
 .PostBottom {
   width:100%;
+  display:none;
 }
 .PostBottom p {
   color: #4d4d4d;
