@@ -209,11 +209,10 @@ header {
   text-align:center;
   width:100%;
   height:100px;
-  background-color:blue;
+  margin-top:-50px;
 }
 .Footer p {
   margin-top:50px;
-  margin-bottom:-50px;
 }
 .NewsLeftSide {
  float:left;
